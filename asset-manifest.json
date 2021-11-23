@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://hamdiellouzi.github.io/csb-hzcz4/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://hamdiellouzi.github.io/csb-hzcz4/static/js/main.b7b5c9b6.chunk.js",
+    "main.js.map": "https://hamdiellouzi.github.io/csb-hzcz4/static/js/main.b7b5c9b6.chunk.js.map",
+    "runtime-main.js": "https://hamdiellouzi.github.io/csb-hzcz4/static/js/runtime-main.d48eb0bb.js",
+    "runtime-main.js.map": "https://hamdiellouzi.github.io/csb-hzcz4/static/js/runtime-main.d48eb0bb.js.map",
+    "static/js/2.eed3c6af.chunk.js": "https://hamdiellouzi.github.io/csb-hzcz4/static/js/2.eed3c6af.chunk.js",
+    "static/js/2.eed3c6af.chunk.js.map": "https://hamdiellouzi.github.io/csb-hzcz4/static/js/2.eed3c6af.chunk.js.map",
+    "index.html": "https://hamdiellouzi.github.io/csb-hzcz4/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://hamdiellouzi.github.io/csb-hzcz4/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.eed3c6af.chunk.js.LICENSE.txt": "https://hamdiellouzi.github.io/csb-hzcz4/static/js/2.eed3c6af.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d48eb0bb.js",
+    "static/js/2.eed3c6af.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.b7b5c9b6.chunk.js"
+  ]
+}
